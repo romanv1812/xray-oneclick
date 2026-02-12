@@ -11,4 +11,4 @@ This repo installs **Xray-core** and configures **VLESS + REALITY (XTLS Vision)*
 Replace `USER/REPO/BRANCH`:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/USER/REPO/BRANCH/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/romanv1812/xray-oneclick/blob/main/install.sh)
